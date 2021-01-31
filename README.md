@@ -3,7 +3,7 @@
 
 > official website for opensource254
 
-## Reguirements for Debian
+## Requirements for Debian
 ```
 # You are required to add Node.js PPA to your system provided by the Nodejs official website. We also need to install the software-properties-common package if not installed already
 
